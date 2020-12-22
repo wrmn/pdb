@@ -17,7 +17,7 @@ class Penduduk extends Model
         'jenis_kelamin',
         'pekerjaan_id',
         'level_pendidikan_id',
-        'Kewarganegaraan_id',
+        'kewarganegaraan_id',
         'agama',
         'status_keluarga',
         'status_pernikahan',

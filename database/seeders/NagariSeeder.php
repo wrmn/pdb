@@ -14,7 +14,7 @@ class NagariSeeder extends Seeder
      */
     public function run()
     {
-        $nagaris = ['Koto Tuo', 'Koto Gadang', 'Balingka', 'Sianok'];
+        $nagaris = ['Balingka', 'Koto Tuo', 'Koto Gadang', 'Sianok'];
         foreach ($nagaris as $nagari):
             Nagari::create([
                 'nama'=>$nagari

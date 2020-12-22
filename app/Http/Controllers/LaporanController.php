@@ -12,8 +12,8 @@ class LaporanController extends Controller
 {
     public function index(){
         $nagari = Nagari::all();
-
-        return view('laporan.index', compact('nagari'));
+        $penduduks = Penduduk::all();
+        return view('laporan.index', compact('nagari','penduduks'));
     }
 
     public function cariNagari($nagari){

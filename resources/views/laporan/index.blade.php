@@ -32,12 +32,12 @@
                             </thead>
 
                             <tbody>
-                            @foreach($nagari as $penduduk)
+                            @foreach($penduduks as $penduduk)
                                 <tr>
-                                    <td>{{ $penduduk->id }}</td>
-                                    <td>{{ $penduduk->id }}</td>
-                                    <td>{{ $penduduk->id }}</td>
-                                    <td>{{ $penduduk->id }}</td>
+                                    <td>{{ $penduduk->nik }}</td>
+                                    <td>{{ $penduduk->nama }}</td>
+                                    <td>{{ $penduduk->tanggal_lahir }}</td>
+                                    <td>{{ $penduduk->tempat_lahir }}</td>
                                 </tr>
                             @endforeach
                             </tbody>
