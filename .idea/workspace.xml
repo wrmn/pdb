@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cc88bb1-2a6b-41e2-96fb-4beb9916167e" name="Default Changelist" comment="pack">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/LaporanController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/keluarga/_table.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/laporan/_table.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/laporan/education.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/laporan/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/laporan/productive.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/penduduk/_detail.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/penduduk/_form.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/penduduk/_table.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/penduduk/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/penduduk/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AnggotaKeluargaController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AnggotaKeluargaController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PendudukController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PendudukController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Jorong.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Jorong.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/LevelPendidikan.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/LevelPendidikan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Nagari.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Nagari.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Penduduk.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Penduduk.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/keluarga/_detail.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/keluarga/_detail.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/keluarga/anggota/_form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/keluarga/anggota/_form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/keluarga/anggota/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/keluarga/anggota/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/keluarga/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/keluarga/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/keluarga/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/keluarga/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/penduduk/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/penduduk/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/coreui/coreui" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lmJUveTzx3aQyMEjTMqltSM2Bz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Tcejorp\tb-pdb\resources\views\keluarga\anggota" />
+      <recent name="E:\Tcejorp\tb-pdb\resources\views\keluarga" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cc88bb1-2a6b-41e2-96fb-4beb9916167e" name="Default Changelist" comment="" />
+      <created>1608196351727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608196351727</updated>
+      <workItem from="1608196352918" duration="6173000" />
+      <workItem from="1608207664556" duration="7705000" />
+      <workItem from="1608237335858" duration="20489000" />
+      <workItem from="1608345442206" duration="586000" />
+      <workItem from="1608551973633" duration="6899000" />
+      <workItem from="1608590157221" duration="14720000" />
+      <workItem from="1608606636909" duration="24725000" />
+    </task>
+    <task id="LOCAL-00001" summary="create all migrate">
+      <created>1608208765386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608208765386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="deklarasi tidak menggunakan timestamp pada Models">
+      <created>1608208950743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608208950743</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mengubah seluruh nama tabel pada Models">
+      <created>1608209088560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608209088560</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mengubah urutan migrasi">
+      <created>1608210352803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608210352803</updated>
+    </task>
+    <task id="LOCAL-00005" summary="membuat relasi pada model">
+      <created>1608211725145</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608211725145</updated>
+    </task>
+    <task id="LOCAL-00006" summary="mengubah nama kolom">
+      <created>1608213394898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608213394898</updated>
+    </task>
+    <task id="LOCAL-00007" summary="membuat factory">
+      <created>1608215735828</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608215735828</updated>
+    </task>
+    <task id="LOCAL-00008" summary="perbaikan factory dan model">
+      <created>1608249658371</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608249658371</updated>
+    </task>
+    <task id="LOCAL-00009" summary="seeder">
+      <created>1608249704636</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608249704636</updated>
+    </task>
+    <task id="LOCAL-00010" summary="seeder 2">
+      <created>1608249831971</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608249831971</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix class in KartuKeluarga.php">
+      <created>1608253759737</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608253759737</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix tampilan bootstrap">
+      <created>1608257438809</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608257438809</updated>
+    </task>
+    <task id="LOCAL-00013" summary="index keluarga dan kofigurasi route">
+      <created>1608271820357</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608271820357</updated>
+    </task>
+    <task id="LOCAL-00014" summary="menampilkan daftar anggota keluarga pada kartu keluarga">
+      <created>1608278496735</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608278496735</updated>
+    </task>
+    <task id="LOCAL-00015" summary="menampilkan daftar anggota keluarga pada kartu keluarga">
+      <created>1608278501122</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608278501122</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix class ini Penduduk.php">
+      <created>1608278985443</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608278985443</updated>
+    </task>
+    <task id="LOCAL-00017" summary="tambah fitur lihat anggota keluarga">
+      <created>1608558639007</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608558639007</updated>
+    </task>
+    <task id="LOCAL-00018" summary="pack">
+      <created>1608605461420</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608605461420</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="create all migrate" />
+    <MESSAGE value="deklarasi tidak menggunakan timestamp pada Models" />
+    <MESSAGE value="mengubah seluruh nama tabel pada Models" />
+    <MESSAGE value="mengubah urutan migrasi" />
+    <MESSAGE value="membuat relasi pada model" />
+    <MESSAGE value="mengubah nama kolom" />
+    <MESSAGE value="membuat factory" />
+    <MESSAGE value="perbaikan factory dan model" />
+    <MESSAGE value="seeder" />
+    <MESSAGE value="seeder 2" />
+    <MESSAGE value="fix class in KartuKeluarga.php" />
+    <MESSAGE value="fix tampilan bootstrap" />
+    <MESSAGE value="index keluarga dan kofigurasi route" />
+    <MESSAGE value="menampilkan daftar anggota keluarga pada kartu keluarga" />
+    <MESSAGE value="fix class ini Penduduk.php" />
+    <MESSAGE value="tambah fitur lihat anggota keluarga" />
+    <MESSAGE value="pack" />
+    <option name="LAST_COMMIT_MESSAGE" value="pack" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608595586717">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="441" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1608595586717" />
+    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1608632249323">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1608632249323" />
+    <state x="413" y="139" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1608620636717">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="139" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.768@0.0.1366.768" timestamp="1608620636717" />
+    <state x="561" y="281" key="Github.ShareDialog" timestamp="1608205953459">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="561" y="281" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1608205953459" />
+    <state x="184" y="28" key="SettingsEditor" timestamp="1608237359909">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1608237359909" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1608605467264">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1608605467264" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1608613580857">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1608613580857" />
+  </component>
+</project>
